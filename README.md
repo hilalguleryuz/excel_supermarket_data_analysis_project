@@ -1,4 +1,4 @@
-# data_analysis_supermarket_project
+# excel_data_analysis_supermarket_project
 
 🚀 **Excel Data Analysis Project: Strategic Insights for a Supermarket Chain** 📊
 

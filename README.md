@@ -16,7 +16,7 @@ The data and insights obtained from this project can assist the supermarket chai
 
 <br>
 
-📻 You can access the 3-minute project presentation, in which I explain the insights derived from my analyses, via the through below:
+📻 You can access the 3-minute project presentation, in which I explain the insights derived from my analyses, through the link:
 https://youtu.be/FYAcviE2OWY3
 
 <br>

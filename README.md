@@ -21,8 +21,8 @@ https://youtu.be/FYAcviE2OWY3
 
 <br>
 
-![alt text](https://cdn.discordapp.com/attachments/1067439304965640263/1275844295915733092/1.PNG?ex=66c75e18&is=66c60c98&hm=6b0977d18b28557e9ddebf8bc84a78e54f1a2bfefaeee43e32e7e1017c7629a4&)
+![alt text](https://media.discordapp.net/attachments/1067439304965640263/1275844295915733092/1.PNG?ex=66ce9e58&is=66cd4cd8&hm=00ab1a0dce1a37c193ce4f794c9c3c86018b6dc1f283296e16cce9fbb338b652&=&format=webp&quality=lossless&width=942&height=676)
 
-![alt text](https://cdn.discordapp.com/attachments/1067439304965640263/1275844294942523474/2.PNG?ex=66c75e17&is=66c60c97&hm=5ca9ad20f723860ea118db1468a3deb57c71370409a2d0b174fb882140f45b0c&)
+![alt text](https://media.discordapp.net/attachments/1067439304965640263/1275844294942523474/2.PNG?ex=66ce9e57&is=66cd4cd7&hm=3dbe4edf77a3fe5a718cd82d3812d873ae30d70a38f966f10a61d8afdf728e35&=&format=webp&quality=lossless&width=942&height=676)
 
-![alt text](https://cdn.discordapp.com/attachments/1067439304965640263/1275844295366017164/3.PNG?ex=66c75e18&is=66c60c98&hm=a936fd724cb500528e93a79c4b325ce2d7e6dd61438a798dfb09f61caee8b585&)
+![alt text](https://media.discordapp.net/attachments/1067439304965640263/1275844295366017164/3.PNG?ex=66ce9e58&is=66cd4cd8&hm=784bf9fa7dedf896831e892d1b4a6d7380fa854f7914f2c9c633fa28324b7d85&=&format=webp&quality=lossless&width=939&height=676)

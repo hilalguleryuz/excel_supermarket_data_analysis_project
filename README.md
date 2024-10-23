@@ -1,4 +1,4 @@
-# 🚀 Excel Data Analysis Project: Strategic Insights for a Supermarket Chain
+# 🚀 Excel Data Analysis Project: Insights for a Supermarket Chain
 
 For the project at the end of the "Excel Data Analysis" module, I developed a comprehensive dashboard using raw data from a supermarket chain. The goal was to derive strategic insights to enhance the company's profitability.
 

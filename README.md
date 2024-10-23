@@ -21,8 +21,8 @@ https://youtu.be/FYAcviE2OWY3
 
 <br>
 
-![alt text](https://github.com/hilalguleryuz/excel_data_analysis_supermarket_project/blob/main/1.PNG)
+![alt text](https://github.com/hilalguleryuz/excel_data_analysis_supermarket_project/blob/main/Screenshots/SS_1.png)
 
-![alt text](https://github.com/hilalguleryuz/excel_data_analysis_supermarket_project/blob/main/2.PNG)
+![alt text](https://github.com/hilalguleryuz/excel_data_analysis_supermarket_project/blob/main/Screenshots/SS_2.png)
 
-![alt text](https://github.com/hilalguleryuz/excel_data_analysis_supermarket_project/blob/main/3.PNG)
+![alt text](https://github.com/hilalguleryuz/excel_data_analysis_supermarket_project/blob/main/Screenshots/SS_3.png)

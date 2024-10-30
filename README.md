@@ -18,7 +18,7 @@ The data and insights obtained from this project can assist the supermarket chai
 https://youtu.be/FYAcviE2OWY3
 
 
-The screenshots of the project are provided below:
+The screenshots of the dashboard are provided below:
 <br>
 
 ![alt text](https://github.com/hilalguleryuz/excel_data_analysis_supermarket_project/blob/main/Screenshots/SS_1.png)
